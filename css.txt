@@ -1,0 +1,73 @@
+body{
+   font-family: Lato;
+ }
+ 
+ .cool{
+   width: 70%;
+ }
+ 
+ .lame{
+   width: 30%;
+ }
+ 
+ .fontBold{
+   font-weight: bold;;
+ }
+ 
+ .darkBlue{
+   background-color: #13124F;
+   color: white;
+ }
+ 
+ .blue{
+   background-color: #1B1B6C;
+   color: gray;
+ }
+ 
+ .lightBlue{
+   background-color: #352BA5;
+   color: white;
+   text-align: center;
+ }
+ 
+ .pink{
+   background-color: #F61067;
+   color: white;
+ }
+ 
+ .green{
+   background-color: #2AD392;
+ }
+ 
+ .gray{
+   background-color: #9090A5;
+   color: white;
+ }
+ 
+ button{
+   font-weight: bold;
+ }
+ 
+ button.pink{
+   padding: 6px;
+   font-size:  14px;
+   border-style: solid;
+   border-color: #F61067;
+ }
+ 
+ button.greenB{
+   background-color: white;
+   border-color: #2AD392;
+   color: #2AD392;
+   padding: 6px;
+   font-size:  14px;
+   border-style: solid;
+ }
+ 
+ .progress{
+   height: 10px;
+ }
+ 
+ .panel-footer{
+   border: none;
+ }

@@ -1,0 +1,15 @@
+$(document).ready(function(){
+   $("#Fitness").on('click', function(){
+     $("#video").attr("src","./videos/fitnessTest.mp4")
+     $("h1").text("Saitama fitness test")
+   })
+   $("#Puri").on('click', function(){
+     $("#video").attr("src","./videos/puriPuri.mp4")
+     $("h1").text("Puri Puri visit the hospital")
+   })
+   $("#Mosquito").on('click', function(){
+     $("#video").attr("src","./videos/mosquito.mp4")
+     $("h1").text("Saitama and the mosquito")
+   })
+ })
+ 
